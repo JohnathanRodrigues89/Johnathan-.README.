@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,12 +16,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=JohnathanRodrigues89&show_icons=true&theme=dracula)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnathanRodrigues89&layout=compact&theme=dracula)
 
 ---
 
-## 🌎 Onde me encontrar
+## Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/johnathan-rodrigues-75744137a)  
-📧 **Email:** rodriguesjohnathan5@gmail.com
+**Email:** rodriguesjohnathan5@gmail.com
