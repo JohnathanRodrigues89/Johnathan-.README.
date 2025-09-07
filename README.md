@@ -1,8 +1,10 @@
 # Olá, eu sou Johnathan Rodrigues!
 
-- Estudante de **Ciência da Computação**  
-- Atualmente aprendendo **Java, React e Python**  
-- Buscando oportunidades como **Desenvolvedor Fullstack**  
+Tenho 36 anos e sou natural de João Pessoa/ Paraíba.
+
+Sou amante da tecnologia em todos os aspectos, pretendo me tornar um desenvolvedor full stack.
+
+Atualmente cursando Ciência da Computação pela faculdade CRUZEIRO DO SUL. 
 
 ---
 
